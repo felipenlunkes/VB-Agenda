@@ -1,0 +1,53 @@
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMPrincipal.resources
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\bin\Debug\MySql.Data.dll
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\documents\visual studio 2010\Projects\PRJAgendaPessoal\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMPrincipal.resources
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMCONTATOS.resources
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\Pictures\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\MySql.Data.dll
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.exe
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.xml
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.pdb
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMPrincipal.resources
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMCONTATOS.resources
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMSOBRE.resources
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.exe
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.pdb
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.xml
+E:\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\MySql.Data.dll
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.exe
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.pdb
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\PRJAgendaPessoal.xml
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\bin\Debug\MySql.Data.dll
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMPrincipal.resources
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMCONTATOS.resources
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.FRMSOBRE.resources
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\estudante.estudante-PC\Desktop\Agenda Pessoal\PRJAgendaPessoal1\PRJAgendaPessoal\obj\x86\Debug\GenerateResource.write.1.tlog
